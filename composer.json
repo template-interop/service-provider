@@ -1,0 +1,6 @@
+{
+    "require": {
+        "template-interop/engine": "^0.0.2",
+        "container-interop/service-provider": "^0.4.0"
+    }
+}
